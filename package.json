@@ -1,0 +1,27 @@
+{
+  "name": "valid",
+  "version": "1.0.0",
+  "description": "Inline and Multiple Validator with clean schema",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GTime/valid.git"
+  },
+  "keywords": [
+    "validator",
+    "schema"
+  ],
+  "author": "Godstime President Israel <godstimeisrael66@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GTime/valid/issues"
+  },
+  "homepage": "https://github.com/GTime/valid#readme"
+}
